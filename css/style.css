@@ -1,0 +1,20 @@
+.board-container {
+  height: 370px;
+  width: 370px;
+}
+
+.board-container .row {
+  height: 100%;
+}
+
+.board-square {
+  border: 2px solid red;
+  height: 25%;
+  padding; 0;
+}
+
+.face-container {
+  background-color: blue;
+  height: 200%;
+  width: 100%;
+}
